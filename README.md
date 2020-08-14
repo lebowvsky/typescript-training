@@ -1,6 +1,6 @@
 # typescript-training
 
-[![Build Status](https://travis-ci.com/WildCodeSchool/typescript-training.svg?branch=exercises-step)](https://travis-ci.com/WildCodeSchool/typescript-training)
+[![Build Status](https://travis-ci.com/lebowvsky/typescript-training.svg?branch=exercises-step)](https://travis-ci.com/lebowvsky/typescript-training)
 
 ## install
 
